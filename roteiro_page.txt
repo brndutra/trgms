@@ -1,4 +1,0 @@
-// Conteúdo da página roteiro combinado conforme fornecido pelo usuário.
-// Você pode substituir este bloco com o código completo final ajustado.
-
-<codigo aqui>
